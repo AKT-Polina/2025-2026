@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Custis/Modeus//Schedule Calendar App//RU
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:03a30b79-f4ed-40ba-8614-ed3e7cd0f6d3
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260115T143000
+DTEND;TZID=Europe/Moscow:20260115T160500
+SUMMARY:Методы анализа данных / лекция / МАД Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Заручевская Галина Васильевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2203a30b79-f4ed-40ba-8614-ed3e7cd0f6d3%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T14:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2203a30b79-f4ed-40ba-8614-ed3e7cd0f6d3%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T14:30:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:МАД
+END:VEVENT
+BEGIN:VEVENT
+UID:0805076e-aaf6-48c5-a428-0b76efa2a218
+SEQUENCE:3
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260117T180000
+DTEND;TZID=Europe/Moscow:20260117T193500
+SUMMARY:Основы предпринимательства. Управление проектом / Лекция / ОП.УП Л-01
+LOCATION:https://sakai.narfu.ru/portal/site/fundamentals_of_entrepreneurship_project_management_ud2024
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Пахтусова Марина Юрьевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220805076e-aaf6-48c5-a428-0b76efa2a218%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-17T18:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%220805076e-aaf6-48c5-a428-0b76efa2a218%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-17T18:00:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ОП.УП
+END:VEVENT
+BEGIN:VEVENT
+UID:0bd3f0db-150f-4f15-8dbf-22680b61a620
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260114T120000
+DTEND;TZID=Europe/Moscow:20260114T133500
+SUMMARY:Прикладная математика / лекция / ПМ Л-01
+LOCATION:АУК-11 / 44 (АУК-11)
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Конечная Наталья Николаевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220bd3f0db-150f-4f15-8dbf-22680b61a620%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-14T12:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%220bd3f0db-150f-4f15-8dbf-22680b61a620%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-14T12:00:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ПМ
+END:VEVENT
+BEGIN:VEVENT
+UID:18652433-b94c-4c11-8aa3-2967b47aa90c
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260116T082000
+DTEND;TZID=Europe/Moscow:20260116T095500
+SUMMARY:Сбор\, хранение и подготовка больших данных (модуль) / лабораторная работа / СХиПБДм ЛБ-01
+LOCATION:АУК-10 / Лаборатория Цифровизация северного морского пути
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Голышев Алексей Витальевич\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2218652433-b94c-4c11-8aa3-2967b47aa90c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-16T08:20:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2218652433-b94c-4c11-8aa3-2967b47aa90c%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-16T08:20:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:СХиПБДм
+END:VEVENT
+BEGIN:VEVENT
+UID:30d1ecef-e97d-46af-978f-8b08cd65da01
+SEQUENCE:2
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260115T101000
+DTEND;TZID=Europe/Moscow:20260115T114500
+SUMMARY:Системы искусственного интеллекта (модуль) / лекция / СИИм Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Васендина Ирина Сергеевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2230d1ecef-e97d-46af-978f-8b08cd65da01%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T10:10:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%2230d1ecef-e97d-46af-978f-8b08cd65da01%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T10:10:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:СИИм
+END:VEVENT
+BEGIN:VEVENT
+UID:376134b0-a8d5-46fb-a5af-441c86e4a7ea
+SEQUENCE:3
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260113T180000
+DTEND;TZID=Europe/Moscow:20260113T193500
+SUMMARY:Основы предпринимательства. Управление проектом / Лекция / ОП.УП Л-01
+LOCATION:https://sakai.narfu.ru/portal/site/fundamentals_of_entrepreneurship_project_management_ud2024
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Пахтусова Марина Юрьевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22376134b0-a8d5-46fb-a5af-441c86e4a7ea%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-13T18:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22376134b0-a8d5-46fb-a5af-441c86e4a7ea%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-13T18:00:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ОП.УП
+END:VEVENT
+BEGIN:VEVENT
+UID:583cf958-9d90-4ff0-80de-8c9559f47862
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260117T143000
+DTEND;TZID=Europe/Moscow:20260117T160500
+SUMMARY:Системы искусственного интеллекта (модуль) / лекция / СИИм Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Березовский Владимир Валерьевич\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22583cf958-9d90-4ff0-80de-8c9559f47862%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-17T14:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22583cf958-9d90-4ff0-80de-8c9559f47862%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-17T14:30:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:СИИм
+END:VEVENT
+BEGIN:VEVENT
+UID:6a12e752-f696-4bb9-a111-b29d1d8afdbd
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260115T120000
+DTEND;TZID=Europe/Moscow:20260115T133500
+SUMMARY:Общепрофессиональный (модуль) / лекция / Ом Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Деменков Максим Евгеньевич\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%226a12e752-f696-4bb9-a111-b29d1d8afdbd%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T12:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%226a12e752-f696-4bb9-a111-b29d1d8afdbd%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T12:00:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Ом
+END:VEVENT
+BEGIN:VEVENT
+UID:775197e4-8e89-48ea-a236-9cedec7b8ad7
+SEQUENCE:2
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260112T101000
+DTEND;TZID=Europe/Moscow:20260112T114500
+SUMMARY:Разработка программных решений (модуль) / лабораторная работа / РПР ЛБ-01
+LOCATION:АУК-10 / Лаборатория ИТ-школа 1
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Яковленкова Ангелина Олеговна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22775197e4-8e89-48ea-a236-9cedec7b8ad7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-12T10:10:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22775197e4-8e89-48ea-a236-9cedec7b8ad7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-12T10:10:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:РПР
+END:VEVENT
+BEGIN:VEVENT
+UID:8617aa4f-d575-453c-80a3-735301ad0a10
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260117T120000
+DTEND;TZID=Europe/Moscow:20260117T133500
+SUMMARY:Системы искусственного интеллекта (модуль) / лекция / СИИм Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Березовский Владимир Валерьевич\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%228617aa4f-d575-453c-80a3-735301ad0a10%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-17T12:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%228617aa4f-d575-453c-80a3-735301ad0a10%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-17T12:00:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:СИИм
+END:VEVENT
+BEGIN:VEVENT
+UID:865e9463-59e9-4ebb-a7ce-e92d64908bd7
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260116T101000
+DTEND;TZID=Europe/Moscow:20260116T114500
+SUMMARY:Сбор\, хранение и подготовка больших данных (модуль) / лабораторная работа / СХиПБДм ЛБ-01
+LOCATION:АУК-10 / Лаборатория Цифровизация северного морского пути
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Голышев Алексей Витальевич\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22865e9463-59e9-4ebb-a7ce-e92d64908bd7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-16T10:10:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22865e9463-59e9-4ebb-a7ce-e92d64908bd7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-16T10:10:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:СХиПБДм
+END:VEVENT
+BEGIN:VEVENT
+UID:8b87c079-f4f8-47e2-9ba2-de21d71a2018
+SEQUENCE:2
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260115T082000
+DTEND;TZID=Europe/Moscow:20260115T095500
+SUMMARY:Сбор\, хранение и подготовка больших данных (модуль) / лекция / СХиПБДм Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Васендина Ирина Сергеевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%228b87c079-f4f8-47e2-9ba2-de21d71a2018%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T08:20:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%228b87c079-f4f8-47e2-9ba2-de21d71a2018%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-15T08:20:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:СХиПБДм
+END:VEVENT
+BEGIN:VEVENT
+UID:8e499693-cbf0-4e0d-8716-7726635638a2
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260114T101000
+DTEND;TZID=Europe/Moscow:20260114T114500
+SUMMARY:Основы исследовательской деятельности / практика / ОИД П\, ТК\, К-01
+LOCATION:АУК-10 / Лаборатория ИТ-школа 1
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Абрамова Любовь Валерьевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%228e499693-cbf0-4e0d-8716-7726635638a2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-14T10:10:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%228e499693-cbf0-4e0d-8716-7726635638a2%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-14T10:10:00.000Z%22%7D\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ОИД
+END:VEVENT
+BEGIN:VEVENT
+UID:948979e7-3c1a-4f34-904e-6eea443d4d8e
+SEQUENCE:2
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260112T082000
+DTEND;TZID=Europe/Moscow:20260112T095500
+SUMMARY:Разработка программных решений (модуль) / лекция / РПР Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Деменкова Екатерина Алексеевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22948979e7-3c1a-4f34-904e-6eea443d4d8e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-12T08:20:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22948979e7-3c1a-4f34-904e-6eea443d4d8e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-12T08:20:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:РПР
+END:VEVENT
+BEGIN:VEVENT
+UID:b3344ce1-10df-4e9c-964a-ba7964f3f26d
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260114T082000
+DTEND;TZID=Europe/Moscow:20260114T095500
+SUMMARY:Основы исследовательской деятельности / лекция / ОИД Л-01
+LOCATION:АУК-10 / Конференц-зал Поморье
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Абрамова Любовь Валерьевна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22b3344ce1-10df-4e9c-964a-ba7964f3f26d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-14T08:20:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22b3344ce1-10df-4e9c-964a-ba7964f3f26d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-14T08:20:00.000Z%22%7D\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:ОИД
+END:VEVENT
+BEGIN:VEVENT
+UID:bf6dab69-06a1-439b-94d1-3e835ec23893
+SEQUENCE:2
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Europe/Moscow:20260113T062916
+DTSTART;TZID=Europe/Moscow:20260112T120000
+DTEND;TZID=Europe/Moscow:20260112T133500
+SUMMARY:Разработка программных решений (модуль) / лабораторная работа / РПР ЛБ-01
+LOCATION:АУК-10 / Лаборатория ИТ-школа 1
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Яковленкова Ангелина Олеговна\n\nПосмотреть в Моем расписании: https://narfu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22bf6dab69-06a1-439b-94d1-3e835ec23893%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-12T12:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://narfu.modeus.org/schedule-calendar/mobile?selectedEvent=%7B%22eventId%22:%22bf6dab69-06a1-439b-94d1-3e835ec23893%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222026-01-12T12:00:00.000Z%22%7D\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:РПР
+END:VEVENT
+END:VCALENDAR
